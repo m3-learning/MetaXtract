@@ -1,7 +1,7 @@
-metadata_reader
-===============
+metaxtract
+==========
 
 .. toctree::
    :maxdepth: 4
 
-   metadata_reader
+   metaxtract
