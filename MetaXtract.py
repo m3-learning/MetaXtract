@@ -26,7 +26,7 @@ class MyEncoder(json.JSONEncoder):
 
 
 # Base Class
-class MetadataExtractor:
+class MetaXtractor:
     """
     Base class for extracting metadata from different file formats.
     Subclasses must implement the extract() method.

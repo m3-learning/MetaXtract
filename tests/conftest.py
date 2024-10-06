@@ -1,5 +1,5 @@
 """
-    Dummy conftest.py for metadata_reader.
+    Dummy conftest.py for metaxtract.
 
     If you don't know what this is for, just leave it empty.
     Read more about conftest.py under:

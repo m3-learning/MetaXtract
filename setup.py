@@ -1,5 +1,5 @@
 """
-    Setup file for metadata_reader.
+    Setup file for metaxtract.
     Use setup.cfg to configure your project.
 
     This file was generated with PyScaffold 4.6.

@@ -1,9 +1,9 @@
 import xml.etree.ElementTree as ET
-from MetadataExtractor import MetadataExtractor
+from MetaXtract import MetaXtractor
 
 
 # Subclass for XRDML (.xrdml) files
-class XRDML(MetadataExtractor):
+class XRDML(MetaXtractor):
     """
     Class for extracting metadata from XRDML (.xrdml) files.
     """

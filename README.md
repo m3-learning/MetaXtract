@@ -1,8 +1,8 @@
 
-# MetadataExtractor
+# Meta-Xtract
 
 ## Overview
-**MetadataExtractor** is a Python class designed to extract metadata from various file formats including:
+**MetaXtractor** is a Python class designed to extract metadata from various file formats including:
 
 - `.h5` (HDF5)
 - `.xrdml` (XRDML XML-based)
