@@ -1,0 +1,10 @@
+metadata\_reader package
+========================
+
+Module contents
+---------------
+
+.. automodule:: metadata_reader
+   :members:
+   :undoc-members:
+   :show-inheritance:
